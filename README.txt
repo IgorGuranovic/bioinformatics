@@ -30,7 +30,7 @@ An Excel spreadsheet with enzyme class and family number information
 TXT files and FASTA files of individual sequences
 TXT file and FASTA file of all sequences combined into one
 
-FOLDERS INFO:
+CREATE THESE FOLDERS, name them exactly like what is written in quotations:
 "CSV" folder: Where all CSV files are found, main file as well as the ones that are split into ~1000 Genbank numbers each
 "Downloads" folder: Not to be confused with your main downloads folder, this is the one where your downloaded files get transfered from your main Downloads folder
 "FASTA" folder: This is where all the individual FASTA sequence files will be stored
