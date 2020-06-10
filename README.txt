@@ -29,7 +29,7 @@ Step 4: Find the two-letter enzyme class of your desired enzyme and enter it int
 	CE is for Carbohydrate Esterases
 	AA is for Auxiliary Activities
 Step 5: Find the family number of your desired enzyme and enter it into the second field.
-Step 6: Type the file path of your directory where you put the "bioinformatics" folder. (Example: D:/bioinformatics)
+Step 6: Type the file path of your directory where you put the "bioinformatics-master" folder. (Example: D:/bioinformatics-master)
 Step 7: Type the file path of your downloads directory. (Example: C:/Users/Igor/Downloads)
 	In other words, this is the directory where you get files when you download them off the internet.
 Step 8: Hit Enter and wait for all the Chrome windows to open and close. You know the program finished its job when the GUI disappears.
